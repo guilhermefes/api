@@ -1,0 +1,11 @@
+.produto {font-family: 'Goudy Bookletter 1911', serif;
+}
+
+.produto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+}
+

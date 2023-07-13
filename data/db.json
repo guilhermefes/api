@@ -20,5 +20,14 @@
       "descricao": "Mala",
       "preco": "199,90"
     }
-  ]
+  ],
+
+  "usuarios": [
+    {
+        "id": 1,
+        "usuario": "admin",
+        "senha": "admin",
+        "email": "admin@admin.com"
+    }
+]
 }

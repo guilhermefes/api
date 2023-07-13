@@ -1,4 +1,4 @@
-const requisicao = new Request('http://localhost:3000/produtos');
+const requisicao = new Request('http://localhost:5500/produtos');
 
         fetch(requisicao)
         .then(resposta => resposta.json())

@@ -1,12 +1,4 @@
-//  Essa parte toda já fica pronta a partir do fetch economizando linhas do código
-//const requisicao = new Request ('http://localhost:3000/produtos', {
-//     method: 'GET', headers: {
-//         'content-type': 'application/json'
-//     }
-// })
-
-//parte do js que vai ler o arquivo json pelo metodo get
-fetch('http://localhost:3000/produtos', {
+fetch('http://localhost:5500/produtos', {
     method: 'GET', headers: {
         'content-type': 'application/json'
     }
@@ -29,4 +21,4 @@ fetch('http://localhost:3000/produtos', {
 
             document.querySelector('#listaProdutos').appendChild(ul);
         };
-    });
+    })

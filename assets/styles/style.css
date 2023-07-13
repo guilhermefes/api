@@ -1,11 +1,12 @@
-.produto {font-family: 'Goudy Bookletter 1911', serif;
+.title {font-family: 'Goudy Bookletter 1911', serif;
 }
 
-.produto {
+.title {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: row;
     list-style: none;
 }
+
 

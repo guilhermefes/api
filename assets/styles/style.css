@@ -1,12 +1,20 @@
-.title {font-family: 'Goudy Bookletter 1911', serif;
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap');
+
+body {
+    margin: 0px;
+    font-family: 'Gentium Book Plus', serif;
+    text-align: center;
 }
 
-.title {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
-    list-style: none;
+html {
+    background: #FEFFE4;
 }
 
+h1 {
+    margin: 50px;
+}
+
+h2 {
+    margin: 20px;
+}
 

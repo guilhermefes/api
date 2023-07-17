@@ -1,4 +1,4 @@
-document.addEventListener('click', evente =>{
+/*document.addEventListener('click', evente =>{
 
     if(evente.target.classList.contains('delete-button')){
 
@@ -9,7 +9,7 @@ document.addEventListener('click', evente =>{
         }).then(resposta => {
             if(resposta.ok){
                 alert('Produto apagado!');
-                location.reload(); //Jeito ruim, será melhorado nas próximas aulas
+                location.reload(); 
             }
         });
     }
@@ -45,4 +45,4 @@ fetch('http://localhost:5500/produtos', {
                     document.querySelector('#listaProdutos').appendChild(ul);
                 }
 
-            })
+            })*/

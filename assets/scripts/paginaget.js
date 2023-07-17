@@ -1,4 +1,4 @@
-fetch('http://localhost:5500/produtos', {
+/*fetch('http://localhost:5500/produtos', {
     method: 'GET', headers: {
         'content-type': 'application/json'
     }
@@ -21,4 +21,4 @@ fetch('http://localhost:5500/produtos', {
 
             document.querySelector('#listaProdutos').appendChild(ul);
         };
-    })
+    })*/

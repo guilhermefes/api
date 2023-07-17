@@ -1,4 +1,4 @@
-const requisicao = new Request('http://localhost:5500/produtos');
+/*const requisicao = new Request('http://localhost:5500/produtos');
 
         fetch(requisicao)
         .then(resposta => resposta.json())
@@ -13,4 +13,4 @@ const requisicao = new Request('http://localhost:5500/produtos');
 
                 document.querySelector('#resposta').appendChild(div).innerHTML = linha;
             }
-        });
+        }); */

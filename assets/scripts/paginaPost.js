@@ -1,4 +1,4 @@
-document.querySelector('#buttonCadastro').addEventListener('click', ()=>{
+/*document.querySelector('#buttonCadastro').addEventListener('click', ()=>{
 
     const dados = {
         'id': null,
@@ -15,4 +15,4 @@ document.querySelector('#buttonCadastro').addEventListener('click', ()=>{
         alert('Produto cadastrado')
     }
 })
-});
+});*/

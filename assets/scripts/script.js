@@ -1,4 +1,4 @@
-function construirPagina(){
+/*function construirPagina(){
     const h1 = document.createElement('h1');
     h1.classList.add('tituloPagina');
     h1.setAttribute('id', titulo);
@@ -11,4 +11,4 @@ function construirPagina(){
     document.body.appendChild('h1');
     document.body.appendChild('h2').innerHTML = 'Subtítulo';
     document.body.appendChild('p1').innerHTML = 'Lorem blablabla';
-}
+}*/

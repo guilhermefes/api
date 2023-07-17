@@ -1,4 +1,4 @@
-document.querySelector('#btAtualizar').addEventListener('click', () => {
+/*document.querySelector('#btAtualizar').addEventListener('click', () => {
 
     const dados = {
         'id': null,
@@ -18,7 +18,7 @@ document.querySelector('#btAtualizar').addEventListener('click', () => {
     .then(resposta => {
         if(resposta.ok) {
             alert('Produto atualizado');
-            location.reload(); // jeito porcão, depois vamos melhorar (promise)
+            location.reload(); 
         }
     });
 
@@ -46,4 +46,4 @@ fetch('http://localhost:5500/produtos', {
             document.querySelector('#listaProdutos').appendChild(ul);
         }
         
-    });
+    });*/
